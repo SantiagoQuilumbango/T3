@@ -5,8 +5,8 @@ class ClaseConectar
     protected $db;
     private $host = "localhost";
     private $usu = "root";
-    private $clave = "root";
-    private $base = "Ingresos";
+    private $clave = "";
+    private $base = "Ingresos2";
 
     public function ProcedimientoConectar()
     {
